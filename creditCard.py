@@ -1,4 +1,3 @@
-print ("Bidet")
 creditCardNumber = (input("Credit Card Number > "))#gets an input of the credit card number
 creditCardNumber = int(creditCardNumber.replace(" ",""))#remove any whitespace
 print(creditCardNumber)
