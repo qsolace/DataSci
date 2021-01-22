@@ -1,1 +1,1 @@
-for i in range(keyList):
+random

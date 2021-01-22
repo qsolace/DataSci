@@ -1,0 +1,10 @@
+cat
+dog
+pen
+bell
+red
+blue
+hot
+good
+sad
+mad
