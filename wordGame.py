@@ -1,6 +1,5 @@
 #create list of words, pick a random word and have the user guess
 #input, random, time (to delay)
-import math
 import random
 import time
 
@@ -55,5 +54,6 @@ while game == "yes" or game == "y":
     if turns == 0:
         print ("You FAILED!!!!")
         print ("=(")
+        print ("The word was:", word)
         print()
     game = input("Do you want to play again > ")
