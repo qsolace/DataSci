@@ -1,1 +1,1 @@
-random
+ax.set_xticks(x)
